@@ -11,3 +11,10 @@ Evitar a maioria dos crashs no jogo (usuários de Windows 8.1 e 10)
 
 </ul>
 
+<p>Caso você não saiba a versão de GTA SA de PC é uma versão que teve muitos cortes, censura e efeitos removidos. A versão de ps2 é tida como a versão definitiva do jogo.</p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YhA1rjd91p0/0.jpg)](https://www.youtube.com/watch?v=YhA1rjd91p0)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/plkIStGz72s/0.jpg)](https://www.youtube.com/watch?v=plkIStGz72s)
+
+Fontes: https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc
