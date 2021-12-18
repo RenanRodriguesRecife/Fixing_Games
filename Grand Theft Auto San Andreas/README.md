@@ -6,7 +6,7 @@ Evitar a maioria dos crashs no jogo (usuários de Windows 8.1 e 10)
     </li>
 
 <li><p>Use a resolução 1024 x 768</p>
-<img src=".assets/compatibilidade.JPG">
+<img src=".assets/resolution.JPG">
     </li>
 
 </ul>
