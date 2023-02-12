@@ -2,9 +2,20 @@ GBA:
 
 A tela do GBA é bem diferente do que as pessoas estão acostumadas com a saída do Emulador:
 
-<img src="tela1.jpg">
+<img src=".assets/screengba.JPG">
 
-<img src="tela2.jpg">
+<img src=".assets/gbaoriginal.JPG">
+
+<img src=".assets/lcd-telaIPS.png">
+
+<img src=".assets/color1.png">
+
+<img src=".assets/color2.png">
+
+<img src=".assets/color3.png">
+
+<img src=".assets/source.gif">
+
 
 Dunno where to post this, and since this is my first time posting here, I just wanna make this real quick.
 
