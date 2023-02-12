@@ -10,7 +10,7 @@ A tela do GBA é bem diferente do que as pessoas estão acostumadas com a saída
 
 <img src=".assets/color1.png">
 
-<img src=".assets/color2.png">
+<img src=".assets/color2.jpg">
 
 <img src=".assets/color3.png">
 
