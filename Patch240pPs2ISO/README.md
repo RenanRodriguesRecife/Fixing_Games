@@ -19,3 +19,6 @@ to
 ```
 00 00 04 20 04 00 06 a6
 ```
+
+
+https://shmups.system11.org/viewtopic.php?t=61532
