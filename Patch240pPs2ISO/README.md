@@ -27,6 +27,7 @@ Funcionam
 King of fighter collection Orochi Saga
 King of fighter 2002
 Street Fighter Alpha Anthology
+Metal Slug Anthology (porém o Metal Slug 6 foi feito para atomiswave e sua resolução original é de 480p - ele não fica muito bem em 240p)
 
 ```
 Não funciona
