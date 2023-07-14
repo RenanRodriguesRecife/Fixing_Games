@@ -20,5 +20,20 @@ to
 00 00 04 20 04 00 06 a6
 ```
 
+Lista de compatibilidade
+
+Funcionam
+```
+King of fighter collection Orochi Saga
+King of fighter 2002
+Street Fighter Alpha Anthology
+
+```
+Não funciona
+```
+Apenas Intro:
+King of fighter NEST collection
+
+```
 
 https://shmups.system11.org/viewtopic.php?t=61532
