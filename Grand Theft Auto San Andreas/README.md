@@ -18,3 +18,12 @@ Evitar a maioria dos crashs no jogo (usuários de Windows 8.1 e 10)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/plkIStGz72s/0.jpg)](https://www.youtube.com/watch?v=plkIStGz72s)
 
 Fontes: https://gtaforums.com/topic/749193-san-andreas-ps2-features-to-pc
+
+
+### Contornar - Tela preta no meio da missão JUST BUSINESS (Big Smoke)
+
+Ficar apertando o PAUSE antes e depois do caminhão explodir. Quando explodir fique mirando enquanto as motos te perseguem não atirem  e continue apertando PAUSE até as motos entrarem no túnel.
+
+Acredito que seja por conta do pocessamento rápido atual as motos não são espownadas e o jogo trava.
+
+Fonte: https://www.youtube.com/watch?v=QkN2z_o4acA
